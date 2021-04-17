@@ -1,0 +1,20 @@
+{
+  "name": "instaclone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insungsong/instaclone-backend.git"
+  },
+  "author": "insungsong <song22861@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insungsong/instaclone-backend/issues"
+  },
+  "homepage": "https://github.com/insungsong/instaclone-backend#readme",
+  "scripts": {
+    "dev": ""
+  },
+  "keywords": [],
+  "description": ""
+}
